@@ -1,6 +1,4 @@
 function showMessage() {
-    alert('Hallo Welt');
+    alert('Hallo Welt geändert');
 }
-
-showMessage();
-
+//document.addEventListener('DOMContentLoaded', showMessage);
